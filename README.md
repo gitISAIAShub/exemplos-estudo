@@ -1,2 +1,2 @@
 # exemplos-estudo
-Exemplos para entender o GitHub
+Exemplos para entender o GitHub.
